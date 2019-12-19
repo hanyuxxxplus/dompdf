@@ -109,7 +109,10 @@ class Text extends AbstractFrameReflower
         }
 
         // split the text into words
-        $words = preg_split('/([\s-]+)/u', $text, -1, PREG_SPLIT_DELIM_CAPTURE);
+//        $words = preg_split('/([\s-]+)/u', $text, -1, PREG_SPLIT_DELIM_CAPTURE);
+//        $wc = count($words);
+        preg_match_all("/./u", $text, $array);
+        $words = array(0);
         $wc = count($words);
 
         // Determine the split point
