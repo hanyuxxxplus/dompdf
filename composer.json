@@ -1,9 +1,9 @@
 {
-    "name": "dompdf/dompdf",
+    "name": "aha/dompdf",
     "type": "library",
     "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
-    "homepage": "https://github.com/dompdf/dompdf",
-    "license": "LGPL-2.1",
+    "homepage": "https://github.com/hanyuxxxplus/dompdf",
+    "license": "MIT",
     "authors": [
         {
             "name": "Fabien Ménager",
