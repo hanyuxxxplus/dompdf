@@ -89,4 +89,10 @@
     'italic' => $fontDir . '/simsong',
     'bold_italic' => $fontDir . '/simsong',
   ),
+  'courier_new' => array(
+    'normal' => $fontDir . '/Courier_New',
+    'bold' => $fontDir . '/Courier_New_Bold',
+    'italic' => $fontDir . '/Courier_New_Italic',
+    'bold_italic' => $fontDir . '/Courier_New_Bold_Italic',
+  ),
 ) ?>
