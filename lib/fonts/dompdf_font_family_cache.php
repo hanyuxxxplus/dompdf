@@ -95,4 +95,10 @@
     'italic' => $fontDir . '/Courier_New_Italic',
     'bold_italic' => $fontDir . '/Courier_New_Bold_Italic',
   ),
+  'nanum' => array(
+    'normal' => $fontDir . '/NanumGothicCoding',
+    'bold' => $fontDir . '/NanumGothicCoding',
+    'italic' => $fontDir . '/NanumGothicCoding',
+    'bold_italic' => $fontDir . '/NanumGothicCoding',
+  ),
 ) ?>
